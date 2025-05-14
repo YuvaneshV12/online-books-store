@@ -15,7 +15,7 @@ You can access the application on your local server:
 ## 🖼️ Project Preview
 
 <!-- Add your image below -->
-![Online Book Store Screenshot](https://i.ibb.co/35qNmm6g/Photo.jpg)
+![Online Book Store Screenshot]([https://i.ibb.co/35qNmm6g/Photo.jpg](https://i.ibb.co/Wv0gk7MR/Screenshot-2025-05-14-130352.png))
 
 ---
 
